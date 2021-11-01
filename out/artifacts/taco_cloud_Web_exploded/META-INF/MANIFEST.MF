@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: pd271
+Build-Jdk: version 16.0.1
+Implementation-Title: taco-cloud
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sia
+Main-Class: ${start-class}
+

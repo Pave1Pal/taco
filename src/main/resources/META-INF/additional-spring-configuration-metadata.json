@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "taco.order.size",
+      "type": "java.lang.Integer",
+      "description": "Description for taco.order.size."
+    }
+  ] }
